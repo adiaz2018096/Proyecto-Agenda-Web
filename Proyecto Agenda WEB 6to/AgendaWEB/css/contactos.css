@@ -1,0 +1,523 @@
+body{
+		margin: 0;
+		padding: 0;
+		background: url(../img/FondoImagen3.png) repeat center top;
+		background-size: cover;
+		
+}
+
+	.AgendaWEB-boxx {
+		width: 320px;
+		height: 450px;
+		background: #000;
+		color: #fff;
+		top: 65%;
+		left: 13%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 30px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		.AgendaWEB-boxx input[type="text"],
+		.AgendaWEB-boxx input[type="password"] {
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			height: 40px;
+			color: #000000;
+			font-size: 16px;
+
+		}
+		
+		.AgendaWEB-boxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxx a{
+			text-decoration: none;
+			font-size: 12px;
+			line-height: 20px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxx a:hover {
+			color: #00FF00;
+		}
+		
+		
+	/* Segundo Contacto */
+
+	
+	.AgendaWEB-boxxx {
+		width: 320px;
+		height: 450px;
+		background: #000;
+		color: #fff;
+		top: 65%;
+		left: 38%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 30px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		.AgendaWEB-boxxx input[type="text"],
+		.AgendaWEB-boxxx input[type="password"] {
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			height: 40px;
+			color: #000000;
+			font-size: 16px;
+
+		}
+		
+		.AgendaWEB-boxxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxxx a{
+			text-decoration: none;
+			font-size: 12px;
+			line-height: 20px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxxx a:hover {
+			color: #00FF00;
+		}
+		
+		
+			/* Tercer Contacto */
+
+	
+	.AgendaWEB-boxxxx {
+		width: 320px;
+		height: 450px;
+		background: #000;
+		color: #fff;
+		top: 65%;
+		left: 63%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxxxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxxxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 30px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxxxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxxxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		.AgendaWEB-boxxxx input[type="text"],
+		.AgendaWEB-boxxxx input[type="password"] {
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			height: 40px;
+			color: #000000;
+			font-size: 16px;
+
+		}
+		
+		.AgendaWEB-boxxxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+		}	
+		
+		.AgendaWEB-boxxxx a{
+			text-decoration: none;
+			font-size: 12px;
+			line-height: 20px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxxxx a:hover {
+			color: #00FF00;
+		}
+		
+			/* Cuarto Contacto */
+
+	
+	.AgendaWEB-boxxxxx {
+		width: 320px;
+		height: 450px;
+		background: #000;
+		color: #fff;
+		top: 65%;
+		left: 88%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxxxxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxxxxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 30px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxxxxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxxxxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		.AgendaWEB-boxxxxx input[type="text"],
+		.AgendaWEB-boxxxxx input[type="password"] {
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			height: 40px;
+			color: #000000;
+			font-size: 16px;
+
+		}
+		
+		.AgendaWEB-boxxxxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxxxxx a{
+			text-decoration: none;
+			font-size: 12px;
+			line-height: 20px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxxxxx a:hover {
+			color: #00FF00;
+		}
+		
+		
+		/* Agragar Un NuevO Contato */
+		
+		.AgendaWEB-boxxxxxx {
+		width: 320px;
+		height: 450px;
+		background: #000;
+		color: #fff;
+		top: 160%;
+		left: 29%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxxxxxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxxxxxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 30px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxxxxxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxxxxxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		
+		.AgendaWEB-boxxxxxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxxxxxx a{
+			text-decoration: none;
+			font-size: 18px;
+			line-height: 35px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxxxxxx a:hover {
+			color: #00FF00;
+		}
+		
+		
+			/* Perfil del Usuario */
+		
+		.AgendaWEB-boxxxxxxx {
+		width: 320px;
+		height: 600px;
+		background: #000;
+		color: #fff;
+		top: 160%;
+		left: 68%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxxxxxxx .avatar{
+			width: 200px;
+			height: 150px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxxxxxxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 25px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxxxxxxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxxxxxxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		
+		.AgendaWEB-boxxxxxxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #008000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxxxxxxx a{
+			text-decoration: none;
+			font-size: 18px;
+			line-height: 35px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxxxxxxx a:hover {
+			color: #00FF00;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

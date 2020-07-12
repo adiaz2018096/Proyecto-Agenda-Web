@@ -1,0 +1,92 @@
+ody{
+		margin: 0;
+		padding: 0;
+		background: url(../img/FondoImagen3.png) repeat center top;
+		background-size: cover;
+		
+}
+
+	.AgendaWEB-boxx {
+		width: 320px;
+		height: 500px;
+		background: #000;
+		color: #fff;
+		top: 60%;
+		left: 50%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 38px;
+	
+	}
+	
+	
+	.AgendaWEB-boxx .avatar{
+			width: 200px;
+			height: 140px;
+			border-radius: 40%;
+			position: absolute;
+			top: -90px;
+			left: calc(60% - 43%);
+				
+		}
+		
+		.AgendaWEB-boxx h1{
+			margin: 0;
+			padding: 0 0 20px;
+			text-align: center;
+			font-size: 25px 
+			
+				
+		}
+		
+		
+		.AgendaWEB-boxx input{
+			width: 100%;
+			margin-bottom: 20px;
+			
+		}
+	
+		
+		.AgendaWEB-boxx label{
+			margin: 0;
+			padding: 0;
+			font-weight: bold;
+			display: block;	
+			
+		}
+		
+		
+		.AgendaWEB-boxx input[type="text"],
+		.AgendaWEB-boxx input[type="password"] {
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			height: 15px;
+			color: #000000;
+			font-size: 16px;
+
+		}
+		
+		.AgendaWEB-boxx input[type="bootom"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: #FF0000;
+			color: #fff;
+			font-size: 22px;
+			border-radius: 28px;
+			text-align: center;
+			
+		}	
+		
+		.AgendaWEB-boxx a{
+			text-decoration: none;
+			font-size: 12px;
+			line-height: 20px;
+			color: darkgrey;
+		}
+		
+		.AgendaWEB-boxx a:hover {
+			color: #00FF00;
+		}
